@@ -18,3 +18,28 @@ def Java():
   func System.out.pritln("Nothing")
 
 def 
+def python():
+  func print("Nothing")
+
+def Java():
+  func System.out.pritln("Nothing")
+
+def def python():
+  func print("Nothing")
+
+def Java():
+  func System.out.pritln("Nothing")
+
+def def python():
+  func print("Nothing")
+
+def Java():
+  func System.out.pritln("Nothing")
+
+def def python():
+  func print("Nothing")
+
+def Java():
+  func System.out.pritln("Nothing")
+
+def 
